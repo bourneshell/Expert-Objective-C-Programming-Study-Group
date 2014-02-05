@@ -5,7 +5,7 @@
 
 ## 第1章 Automatic Reference Counting 
 ### [1.1 AutomaticReferenceCountingとは何か?](chapt-1/sect-1-1.md)
-### 1.2 メモリ管理/参照カウント
+### [1.2 メモリ管理/参照カウント](chapt-1/sect-1-2.md)
 - 1.2.1 概要.......................................2 
 - 1.2.2 メモリ管理の考え方...............................5 
 - 1.2.3 alloc/retain/release/deallocの実装 ......................14 
